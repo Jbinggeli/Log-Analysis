@@ -16,6 +16,7 @@ takes the generated csv files from log_parser.py and extracts numerical / quanti
 ## /data
 
 contains a folder for each date that has log data from the study
+
 Note: this folder has to added from the polybox
 
 -  summary.csv
