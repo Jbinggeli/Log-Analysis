@@ -1,5 +1,6 @@
 # Log-Analysis
 Log Analysis of my semester thesis at the BFH for the BFH FAIR Robotic Arm
+
 Python version: 3.13.7
 
 ## paper.py
